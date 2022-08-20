@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+  }
+  h3{
+    color:red;
+  }
+  h4{
+    color:violet;
+  }
+  img{
+    width: 300px;
+  }
+  #thirDiv{
+    background-color:chartreuse;
+    height:350px;
+    width:400px;
+    margin:50px;
+    padding:50px;
+    border:10px solid green;
+  }
+
+  
+  #spanid{
+    font-size:36px;
+    margin:50px;
+  }

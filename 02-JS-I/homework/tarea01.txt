@@ -1,0 +1,13 @@
+Variable: es un elemento que sirve para almacenar información y luego poder usar esa información de distintas formas.
+
+Strings: o llamado cadena es un tipo de dato que permite almacenar texto.
+
+Funciones(argumento,return): es un conjunto de instrucciones que realizan una tarea o un procedimiento.
+                             el argumento es la información que se ingresa para poder ser utilizada dentro de la tarea
+                             a realizar y el return es el comando que permite retornar el valor obtenido como resultado
+                             de la tarea.
+
+Declaraciones if :es una sentencia condicional que tiene una expreción si el resultado de la expresión es positivo se llevan a cabo las demas
+              instrucciones señaladas cuando el resultado es positivo de lo contrario se llevan a cabo las instrucciones cuando el resultado 
+              de la expresión no es positiva.
+valores Booleanos true y False: un valor Booleano representa un valor de verdad que puede ser verdadero o falso.        

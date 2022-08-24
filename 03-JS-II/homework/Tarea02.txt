@@ -1,0 +1,9 @@
+for: es un ciclo que se ejecuta para realizar un conjunto de instrucciones un numero determinado de veces
+     para esto tiene un punto de partida determinado por un valor inicial y se cierra hasta alcanzar el 
+     valor final.
+&&: es un operador logico y se lee "Y", compara mas de una expresión y el valor de las expresiones deben ser verdaderas(true) 
+    para que el resultado sea verdadero.
+||: es un operador logico y se lee "O", compara mas de una expresión y por lo menos una de las expresiones debe ser verdaderas
+    para que el resultado sea verdadero.
+! : es un operador logico de negación "No",convierte el valor true en false y el false en true.
+

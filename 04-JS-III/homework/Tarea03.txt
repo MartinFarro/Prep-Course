@@ -1,0 +1,2 @@
+array: es una variable especial que contiene un n numero de elementos del mismo tipo que determinan el tamaño del array.
+       cada elemento se almacena en una ubicación especifica.

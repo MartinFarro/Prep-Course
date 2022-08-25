@@ -1,0 +1,19 @@
+Objetos: es un elemento con propiedades y tipos por ejemplo: una Jarra es un objeto y tiene propiedades como 
+         el color, tamaño, peso, material de fabricación etc.
+
+Propiedades: son las que definen las caracteristicas de un objeto son lo mismo que las variables.
+
+Métodos: es una funcion y al mismo tiempo es una propiedad de un objeto.
+
+Bucle for in: itera sobre todas las propiedades enumerables que no son simbolos del objeto y registra
+              una cadena de los nombres de propiedad y sus valores.
+
+Notación de Puntos vs Notación de Corchetes: La notacion de punto nos permite acceder a las propiedades de un 
+                                             objeto atravez de un punto que antecede al nombre de la propiedad
+                                             por ejemplo el objeto persona tiene como propiedad nombre entonces
+                                             la notacion seria persona.nombre y esta notacion es jerarquica 
+                                             por ejemplo el objeto persona tiene direccion y dentro de direccion
+                                             tiene pais y ciudad entonces podemos acceder de la siguiente manera
+                                             persona.direccion.pais
+
+                                             La notacion de corchetes es muy similar a la notacion de punto.

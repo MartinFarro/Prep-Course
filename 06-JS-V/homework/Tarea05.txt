@@ -1,0 +1,2 @@
+Prototype: Son funciones que se crean por defecto cuando se crea un objeto; asi mismo se puede agregar
+           nuevos objetos que van a heredar las sub funciones del objeto principal.

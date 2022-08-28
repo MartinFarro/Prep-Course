@@ -1,0 +1,4 @@
+Funciones Callback : Las funciones Callback ejecutan una funcion dentro de otra funcion por ejemplo:
+                     Si creamos una funcion para calcular el producto de dos numeros podemos invocar 
+                     otra funcion para que evalue el resultado y muestre mensajes si el producto 
+                     es un numero par o impar.
